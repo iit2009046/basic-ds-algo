@@ -1,3 +1,6 @@
+This file contains basic ds and algo to practice before going to leetcode or any coding site.
+It contains things to read for system design and distributed systesm interview preparations
+
 Sorting
     1. Bubble sort
     2. Insertion sort
