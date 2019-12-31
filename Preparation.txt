@@ -1,0 +1,73 @@
+Sorting
+    1. Bubble sort
+    2. Insertion sort
+    3. Selection sort
+    4. Merge sort
+    5. Quick sort
+    6. Heap sort (sort in place to get O(1) space)
+    7. Bucket sort
+    8. External sort theory
+    9. Topological sort
+    10. Stability in sorting theory
+
+Searching
+    1. Linear search
+    2. Binary search
+    3. BFS (recursive and iterative)
+    4. DFS (recursive and iterative)
+
+Data Structures
+    1. Hash tables
+    2. Sets
+    3. Heap
+    4. Tree
+    5. Dynamic array
+    6. Linked list
+    7. Stack
+    8. Queue
+    9. BST
+    10. Binary Heaps
+    11. Priority Queue
+    12. Graphs
+    13. Trie
+
+Algorithm
+    1. Bit manipulation and numbers
+    2. Kth smallest elements (Sort, QuickSelect, Median of median) -> Implement all three ways
+    3. Permutations
+    4. Subsets
+    5. Dijkstra
+    6. Tree traversals(in-order, pre-order, post-order)
+    7. NP-complete(videos) - just know the concept
+    8. Detect cycle in graph(directed or undirected)
+    9. Count connected components in a graph
+    10. Find strongly connected components
+
+System Design
+    Grokking System design
+
+
+Research Papers
+    1. Amazon - dynamo paper
+    2. Google - Map-reduce paper
+    3. Google - GFS paper
+    4. Facebook - TAO paper
+
+Books to read
+    1. Distributed systems for fun and profit
+    2. Designing data intensive applications
+
+
+Distributed systems
+    1. Consistent hashing
+    2. Data partitioning
+    3. Load balancing
+    4. Redundancy and replication
+    5. CAP theorem
+    6. Dynamic sharding
+    7. Wide column stores
+    8. Key-value stores
+    9. Database indexing
+    10. Distributed caching
+    11. Nearest-Neighbors search
+    12. Sorting large scale data
