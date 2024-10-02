@@ -9,9 +9,8 @@ Sorting
     5. Quick sort
     6. Heap sort (sort in place to get O(1) space)
     7. Bucket sort
-    8. External sort theory
-    9. Topological sort
-    10. Stability in sorting theory
+    8. External sort theory (very good explanation: https://www.youtube.com/watch?v=Bp7fGofslng)
+    9. Stability in sorting theory
 
 Searching
     1. Linear search
@@ -45,6 +44,7 @@ Algorithm
     8. Detect cycle in graph(directed or undirected)
     9. Count connected components in a graph
     10. Find strongly connected components
+    11. Topological sort
 
 System Design
     Grokking System design
